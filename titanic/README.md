@@ -3,7 +3,5 @@ Consists of dataset of information regarding passengers on the Titanic. Purpose 
 
 
 
-Currently placed in top 2% of the world leaderboard.
-
 
 Accuracy: 83.5 %
